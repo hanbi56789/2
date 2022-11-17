@@ -1,0 +1,25 @@
+.content{
+ text-align: center;
+ padding: 100px 0 20px 0;
+}
+
+div{
+ font-size: 100px;//大小
+ color: aqua;//颜色
+}
+
+span{
+ color:blue;
+}
+
+a{
+ color:green;
+}
+
+em{
+ color:blueviolet;
+}
+
+p{
+ color:red;
+}
